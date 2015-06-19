@@ -1,7 +1,7 @@
 CmdLineReddit
 =============
 
-This is a simple unofficial command line Reddit reader in Perl. It reads RSS feeds from Reddit. A compiled binary for Windows and Linux is available from my site http://dendory.net/?d=53e56eeb
+This is a simple unofficial command line Reddit reader in Perl. It reads RSS feeds from Reddit. A compiled binary for Windows and Linux is available from the `bin` folder.
 
 Usage
 -----
